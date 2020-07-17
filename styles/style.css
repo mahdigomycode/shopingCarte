@@ -1,0 +1,32 @@
+body {
+  overflow-x: hidden;
+}
+
+.w-100 {
+  height: 450px;
+}
+.btn-img {
+  width: 32px;
+}
+.row-control {
+  justify-content: space-between;
+}
+.itemQte {
+  margin: 5%;
+}
+.title-row {
+  justify-content: space-around;
+}
+main {
+  margin-top: 2%;
+}
+.total-price img {
+  width: 64px;
+}
+.btn-add,
+.btn-minus {
+  cursor: pointer;
+}
+.close {
+  cursor: pointer;
+}
